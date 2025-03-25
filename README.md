@@ -1,4 +1,4 @@
-# [113_1_DATA SCIENCE FINAL PROJECT] Final Report (Chinese)
+# [113_1_DATA SCIENCE FINAL PROJECT] Final Report (CN version)
 Detailed report and full record of results in the folder "report_and_ppt".<br>
 [GitHub] (https://www.youtube.com/watch?v=FA9FYOnWbPc)
 
